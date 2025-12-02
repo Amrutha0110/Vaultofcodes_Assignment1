@@ -1,0 +1,8 @@
+Java compiled files
+
+*.class
+*.jar
+
+Windows folder files
+
+Thumbs.db
